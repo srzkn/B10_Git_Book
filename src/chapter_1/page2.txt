@@ -1,16 +1,18 @@
 PAGE 2
 
-this is the SECOND file we have.
+this is the SECOND file we have...
 
-we are ready to learn...
+we are ready to learn......
 
-I ADDED SOMETHING
+I ADDED SOMETHING...
 
 
-YES I DID
+YES I DID...
 
 SOMETHING NEW.
 
 PLEASE DO IT.
 
 ADDITION
+
+++++

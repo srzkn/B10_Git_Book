@@ -4,7 +4,7 @@ this is the start of my book
 
 we are getting started.
 
-WE ARE ADDING SOMETHING.
+WE ARE ADDING SOMETHING....
 
 YES I DID
 
@@ -12,3 +12,5 @@ SOMETHING NEW.
 AGAIN.
 
 ADDITION.
+
++++
