@@ -1,0 +1,7 @@
+PAGE 2
+
+DAY 2 ---> PAGE 2
+
+
+this is the SECOND file
+today we are gonna continue learning git and github
